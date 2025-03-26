@@ -1,0 +1,17 @@
+9:13 PM 3/22/2025
+
+Kullanılan komponent sayısı 15 -boostrap'e göre-:
+	- Accordion
+	- Cards
+	- Corrusel
+	- Breadcrumb
+	- Nav
+	- Button
+	- Text Area
+	- Progress-bar
+	- Toasts	
+	- Close Button	
+	- Submit Button
+	- Input Area
+	- Cards
+	- Collapse
